@@ -33,7 +33,7 @@ script.js: The JavaScript file that contains the game logic.<br>
 ## 📬 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Dice-Duel Link: 
+Dice-Duel Link: https://tamannaasinghh.github.io/Dice-Duel/
 
 Email: singhtamannaa21@gmail.com<br>
 GitHub: TamannaaSinghh<br>
