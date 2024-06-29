@@ -8,7 +8,9 @@ Welcome to the Dice Duel Game! This fun and simple game lets you roll two dice a
 💻 Built with HTML, CSS, and JavaScript<br>
 
 ## 📸 Screenshot
-![Screenshot 2024-06-29 021607](https://github.com/TamannaaSinghh/Dice-Duel/assets/158739752/7257f199-99d8-46af-9b23-af01eaa029a6)
+![Screenshot 2024-06-29 021607](https://github.com/TamannaaSinghh/Dice-Duel/assets/158739752/7257f199-99d8-46af-9b23-af01eaa029a6)<br>
+
+Dice-Duel Link: https://tamannaasinghh.github.io/Dice-Duel/
 
 ## 📖 How to Play
 1. Open the game in your browser.
@@ -33,7 +35,7 @@ script.js: The JavaScript file that contains the game logic.<br>
 ## 📬 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Dice-Duel Link: https://tamannaasinghh.github.io/Dice-Duel/
+
 
 Email: singhtamannaa21@gmail.com<br>
 GitHub: TamannaaSinghh<br>
